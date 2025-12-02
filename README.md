@@ -1,5 +1,3 @@
-Here is a **perfect README.md** you can add to your GitHub project **slider_webpage**.
-Just copy–paste this into a file named **README.md** inside your repository.
 
 ---
 
